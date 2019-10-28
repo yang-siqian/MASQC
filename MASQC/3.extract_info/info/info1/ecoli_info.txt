@@ -1,0 +1,20 @@
+[07/05/2019 22:08:03]ecoli:4.322886(threshold)
+Total sites in genomes: 53381
+Total sites filtered by threshold: 26880
+Total sites filtered by peaks: 26492
+Total sites filtered by peaks and threshold: 16398
+motif:GATC
+Total GATC motifs: 39043
+(pacbio+MeDIP)motifs in peaks: 24071
+(pacbio+threshold)motifs filtered by threshold: 26470
+(pacbio+MeDIP+threshold)motifs in peaks filtered by threshold: 16300
+motif:AAGANNNNNCTC
+Total AAGANNNNNCTC motifs: 207
+(pacbio+MeDIP)motifs in peaks: 98
+(pacbio+threshold)motifs filtered by threshold: 52
+(pacbio+MeDIP+threshold)motifs in peaks filtered by threshold: 19
+motif:GAGNNNNNTCTT
+Total GAGNNNNNTCTT motifs: 219
+(pacbio+MeDIP)motifs in peaks: 98
+(pacbio+threshold)motifs filtered by threshold: 40
+(pacbio+MeDIP+threshold)motifs in peaks filtered by threshold: 13

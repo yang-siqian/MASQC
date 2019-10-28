@@ -1,0 +1,8 @@
+C.elegans 2
+C.reinhardtii 2
+E.coli 3
+S.aureus 5
+B.subtilis 2
+E.faecalis 4
+S.enterica 3
+L.monocytogenes 2

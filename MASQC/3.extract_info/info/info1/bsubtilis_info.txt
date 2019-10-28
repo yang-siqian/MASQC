@@ -1,0 +1,15 @@
+[07/05/2019 22:09:21]bsubtilis:4.428887(threshold)
+Total sites in genomes: 12304
+Total sites filtered by threshold: 829
+Total sites filtered by peaks: 1694
+Total sites filtered by peaks and threshold: 757
+motif:ACAYNNNNNNNTGNG
+Total ACAYNNNNNNNTGNG motifs: 522
+(pacbio+MeDIP)motifs in peaks: 521
+(pacbio+threshold)motifs filtered by threshold: 400
+(pacbio+MeDIP+threshold)motifs in peaks filtered by threshold: 400
+motif:CNCANNNNNNNRTGT
+Total CNCANNNNNNNRTGT motifs: 534
+(pacbio+MeDIP)motifs in peaks: 533
+(pacbio+threshold)motifs filtered by threshold: 372
+(pacbio+MeDIP+threshold)motifs in peaks filtered by threshold: 372

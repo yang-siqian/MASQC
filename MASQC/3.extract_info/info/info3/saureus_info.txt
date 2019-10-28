@@ -1,0 +1,30 @@
+[07/06/2019 00:16:51]saureus:4.625116(threshold)
+Total sites in genomes: 12505
+Total sites filtered by threshold: 1156
+Total sites filtered by peaks: 1849
+Total sites filtered by peaks and threshold: 961
+motif:TCTANNNNNNTTAA
+Total TCTANNNNNNTTAA motifs: 408
+(pacbio+MeDIP)motifs in peaks: 398
+(pacbio+threshold)motifs filtered by threshold: 334
+(pacbio+MeDIP+threshold)motifs in peaks filtered by threshold: 324
+motif:TTAANNNNNNTAGA
+Total TTAANNNNNNTAGA motifs: 399
+(pacbio+MeDIP)motifs in peaks: 389
+(pacbio+threshold)motifs filtered by threshold: 320
+(pacbio+MeDIP+threshold)motifs in peaks filtered by threshold: 311
+motif:GAAGNNNNNNTTRG
+Total GAAGNNNNNNTTRG motifs: 230
+(pacbio+MeDIP)motifs in peaks: 197
+(pacbio+threshold)motifs filtered by threshold: 193
+(pacbio+MeDIP+threshold)motifs in peaks filtered by threshold: 171
+motif:CYAANNNNNNCTTC
+Total CYAANNNNNNCTTC motifs: 218
+(pacbio+MeDIP)motifs in peaks: 190
+(pacbio+threshold)motifs filtered by threshold: 158
+(pacbio+MeDIP+threshold)motifs in peaks filtered by threshold: 137
+motif:GATCGVNY
+Total GATCGVNY motifs: 79
+(pacbio+MeDIP)motifs in peaks: 8
+(pacbio+threshold)motifs filtered by threshold: 8
+(pacbio+MeDIP+threshold)motifs in peaks filtered by threshold: 1

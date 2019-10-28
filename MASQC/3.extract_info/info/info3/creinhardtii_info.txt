@@ -1,0 +1,30 @@
+[07/06/2019 00:18:56]creinhardtii:4.483868(threshold)
+Total sites in genomes: 164790
+Total sites filtered by threshold: 97931
+Total sites filtered by peaks: 67606
+Total sites filtered by peaks and threshold: 49165
+motif:GATC
+Total GATC motifs: 3151
+(pacbio+MeDIP)motifs in peaks: 3039
+(pacbio+threshold)motifs filtered by threshold: 1883
+(pacbio+MeDIP+threshold)motifs in peaks filtered by threshold: 1836
+motif:CATG
+Total CATG motifs: 16207
+(pacbio+MeDIP)motifs in peaks: 15295
+(pacbio+threshold)motifs filtered by threshold: 12763
+(pacbio+MeDIP+threshold)motifs in peaks filtered by threshold: 12361
+motif:VATB
+Total VATB motifs: 71104
+(pacbio+MeDIP)motifs in peaks: 66900
+(pacbio+threshold)motifs filtered by threshold: 50648
+(pacbio+MeDIP+threshold)motifs in peaks filtered by threshold: 49132
+motif:TATB
+Total TATB motifs: 242
+(pacbio+MeDIP)motifs in peaks: 45
+(pacbio+threshold)motifs filtered by threshold: 5
+(pacbio+MeDIP+threshold)motifs in peaks filtered by threshold: 4
+motif:VATA
+Total VATA motifs: 659
+(pacbio+MeDIP)motifs in peaks: 120
+(pacbio+threshold)motifs filtered by threshold: 3
+(pacbio+MeDIP+threshold)motifs in peaks filtered by threshold: 1

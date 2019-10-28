@@ -1,0 +1,25 @@
+[07/06/2019 00:16:35]efaecalis:4.121334(threshold)
+Total sites in genomes: 19701
+Total sites filtered by threshold: 1889
+Total sites filtered by peaks: 4218
+Total sites filtered by peaks and threshold: 1520
+motif:CAAYNNNNNNTTYG
+Total CAAYNNNNNNTTYG motifs: 864
+(pacbio+MeDIP)motifs in peaks: 809
+(pacbio+threshold)motifs filtered by threshold: 599
+(pacbio+MeDIP+threshold)motifs in peaks filtered by threshold: 571
+motif:CRAANNNNNNRTTG
+Total CRAANNNNNNRTTG motifs: 832
+(pacbio+MeDIP)motifs in peaks: 783
+(pacbio+threshold)motifs filtered by threshold: 533
+(pacbio+MeDIP+threshold)motifs in peaks filtered by threshold: 507
+motif:CTKVAG
+Total CTKVAG motifs: 3100
+(pacbio+MeDIP)motifs in peaks: 1469
+(pacbio+threshold)motifs filtered by threshold: 707
+(pacbio+MeDIP+threshold)motifs in peaks filtered by threshold: 428
+motif:CTCCAG
+Total CTCCAG motifs: 298
+(pacbio+MeDIP)motifs in peaks: 155
+(pacbio+threshold)motifs filtered by threshold: 50
+(pacbio+MeDIP+threshold)motifs in peaks filtered by threshold: 33

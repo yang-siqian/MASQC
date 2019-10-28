@@ -1,0 +1,20 @@
+[07/05/2019 22:09:46]senterica:4.271142(threshold)
+Total sites in genomes: 47509
+Total sites filtered by threshold: 29232
+Total sites filtered by peaks: 16827
+Total sites filtered by peaks and threshold: 11077
+motif:GATC
+Total GATC motifs: 23514
+(pacbio+MeDIP)motifs in peaks: 15002
+(pacbio+threshold)motifs filtered by threshold: 15625
+(pacbio+MeDIP+threshold)motifs in peaks filtered by threshold: 10000
+motif:CAGAG
+Total CAGAG motifs: 3497
+(pacbio+MeDIP)motifs in peaks: 1279
+(pacbio+threshold)motifs filtered by threshold: 2853
+(pacbio+MeDIP+threshold)motifs in peaks filtered by threshold: 1033
+motif:BATGCATV
+Total BATGCATV motifs: 223
+(pacbio+MeDIP)motifs in peaks: 99
+(pacbio+threshold)motifs filtered by threshold: 60
+(pacbio+MeDIP+threshold)motifs in peaks filtered by threshold: 32

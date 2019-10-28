@@ -1,0 +1,15 @@
+[07/05/2019 23:00:17]lmonocytogenes:4.086433(threshold)
+Total sites in genomes: 14740
+Total sites filtered by threshold: 706
+Total sites filtered by peaks: 1570
+Total sites filtered by peaks and threshold: 563
+motif:GCANNNNNNNTGC
+Total GCANNNNNNNTGC motifs: 869
+(pacbio+MeDIP)motifs in peaks: 851
+(pacbio+threshold)motifs filtered by threshold: 562
+(pacbio+MeDIP+threshold)motifs in peaks filtered by threshold: 549
+motif:ANARAGTANYR
+Total ANARAGTANYR motifs: 3
+(pacbio+MeDIP)motifs in peaks: 0
+(pacbio+threshold)motifs filtered by threshold: 0
+(pacbio+MeDIP+threshold)motifs in peaks filtered by threshold: 0

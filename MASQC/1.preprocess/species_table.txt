@@ -1,0 +1,4 @@
+Enterococcus_faecalis	efaecalis	2913357
+Listeria_monocytogenes	lmonocytogenes	3063014
+Salmonella_enterica	senterica	4933063
+Staphylococcus_aureus	saureus	2832183

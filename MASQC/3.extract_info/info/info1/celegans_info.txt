@@ -1,0 +1,15 @@
+[10/13/2019 17:31:57]celegans:2.93101(threshold)
+Total sites in genomes: 261534
+Total sites filtered by threshold: 141003
+Total sites filtered by peaks: 486
+Total sites filtered by peaks and threshold: 257
+motif:AGAA
+Total AGAA motifs: 4399
+(pacbio+MeDIP)motifs in peaks: 14
+(pacbio+threshold)motifs filtered by threshold: 2633
+(pacbio+MeDIP+threshold)motifs in peaks filtered by threshold: 6
+motif:GAGG
+Total GAGG motifs: 4849
+(pacbio+MeDIP)motifs in peaks: 12
+(pacbio+threshold)motifs filtered by threshold: 4173
+(pacbio+MeDIP+threshold)motifs in peaks filtered by threshold: 9
