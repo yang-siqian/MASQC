@@ -4,12 +4,12 @@ out_dir=Args[2]
 datasetfile=Args[3]
 setwd(out_dir)
 dataset=read.table(file = datasetfile,header = F) 
-coverage=dataset[,4]
+#coverage=dataset[,4]
 fraction=dataset[,6]
-fold_enrichment=dataset[,8]
+#fold_enrichment=dataset[,8]
 ipdratio=dataset[,7]
-f_mean=mean(fraction)
-dataset=subset(dataset,fraction>=f_mean)
+#f_mean=mean(fraction)
+dataset=subset(dataset,fraction>=0.7)
 data1 = sample(x=dataset[,7],size=30)
 t1=t.test(data1)$conf.int[1]
 data2 = sample(x=dataset[,7],size=30)
